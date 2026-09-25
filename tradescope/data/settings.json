@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "base": "TWD",
+  "quote": "IDR",
+  "watchlist": [
+    "IDR",
+    "USD",
+    "JPY",
+    "CNY",
+    "SGD",
+    "MYR",
+    "EUR"
+  ],
+  "alerts": [
+    {
+      "pair": "TWD/IDR",
+      "condition": "above",
+      "value": 540.0,
+      "enabled": true
+    }
+  ],
+  "default_range": "3M"
+}
